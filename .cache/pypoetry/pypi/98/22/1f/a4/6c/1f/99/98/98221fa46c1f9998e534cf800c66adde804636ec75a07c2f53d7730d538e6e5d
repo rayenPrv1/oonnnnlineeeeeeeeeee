@@ -1,0 +1,1 @@
+9999999999{"name": "Delorean", "version": "1.0.0", "summary": "library for manipulating datetimes with ease and clarity", "platform": "", "requires_dist": ["babel>=2.1.1", "humanize>=0.5.1", "python-dateutil>=2.4.2", "pytz>=2015.7", "tzlocal>=1.2"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}

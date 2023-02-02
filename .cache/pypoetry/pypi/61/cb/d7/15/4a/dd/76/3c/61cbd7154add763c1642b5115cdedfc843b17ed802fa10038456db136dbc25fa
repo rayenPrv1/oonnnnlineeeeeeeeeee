@@ -1,0 +1,1 @@
+9999999999{"name": "humanize", "version": "4.5.0", "summary": "Python humanize utilities", "platform": null, "requires_dist": ["importlib-metadata ; python_version < \"3.8\"", "freezegun ; extra == 'tests'", "pytest ; extra == 'tests'", "pytest-cov ; extra == 'tests'"], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}
